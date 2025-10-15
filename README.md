@@ -145,7 +145,7 @@ Publish the website in the LocalHost.
             
 
         
-            <h5 align="center">Web development in book Cover front page </h5>
+            <h5 align="center">Web development in book front cover page design </h5>
             
         </div>
         <div class="mypic">
